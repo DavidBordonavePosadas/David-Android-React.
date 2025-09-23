@@ -1,4 +1,4 @@
-package com.koss.calculadoraimc;
+package com.bordonave.calculadoraimc;
 
 import android.content.Context;
 

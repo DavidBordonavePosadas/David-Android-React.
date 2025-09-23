@@ -1,4 +1,4 @@
-package com.koss.proyectolistview;
+package com.bordonave.progressbar;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.bordonave.proyectolistview", appContext.getPackageName());
+        assertEquals("com.bordonave.progressbar", appContext.getPackageName());
     }
 }

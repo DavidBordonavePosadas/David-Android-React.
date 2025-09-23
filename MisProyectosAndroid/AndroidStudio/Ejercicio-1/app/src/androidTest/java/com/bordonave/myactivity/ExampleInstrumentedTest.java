@@ -1,4 +1,4 @@
-package com.koss.splashscreen;
+package com.bordonave.myactivity;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.bordonave.splashscreen", appContext.getPackageName());
+        assertEquals("com.bordonave.myactivity", appContext.getPackageName());
     }
 }

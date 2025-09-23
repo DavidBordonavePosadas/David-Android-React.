@@ -1,4 +1,4 @@
-package com.koss.progressbar;
+package com.bordonave.recycler;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.bordonave.progressbar", appContext.getPackageName());
+        assertEquals("com.bordonave.recycler", appContext.getPackageName());
     }
 }
