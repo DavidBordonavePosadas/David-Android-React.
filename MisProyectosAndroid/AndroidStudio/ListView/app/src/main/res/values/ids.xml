@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvTitulo" type="id">hello</item>
+    <item name="tvTemporadas" type="id">5</item>
+    <item name="tvDirector" type="id">keneedy</item>
+    <item name="imagen" type="id">si</item>
+    <item name="rating" type="id">10</item>
+</resources>

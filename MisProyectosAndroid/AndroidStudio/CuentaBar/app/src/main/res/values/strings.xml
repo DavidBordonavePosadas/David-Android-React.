@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CuentaBar</string>
+    <string name="title">Calculadora de Propinas</string>
+    <string name="bill_amount_label">Monto de la cuenta:</string>
+    <string name="bill_amount_hint">00.0</string>
+    <string name="tip_percentage_label">Porcentaje de propina:</string>
+    <string name="tip_0_percent">0%</string>
+    <string name="tip_10_percent">10%</string>
+    <string name="tip_15_percent">15%</string>
+    <string name="people_count_label">Número de personas:</string>
+    <string name="people_count_hint">1</string>
+    <string name="total_with_tip_label">Total con propina:</string>
+    <string name="amount_per_person_label">Cantidad por persona:</string>
+    <string name="currency_symbol">$</string>
+</resources>
